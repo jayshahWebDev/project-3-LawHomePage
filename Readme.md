@@ -1,6 +1,6 @@
 # Hey, there everyone `Jay Shah` here
 
-## [Live Project Demo](https://law-home-page-lemon.vercel.app/)
+## [Live Project Demo](https://project-3-law-page.netlify.app/)
 
 <br>
 
